@@ -23,7 +23,7 @@ form {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   padding-bottom: 3%;
   margin-top: 3%;
-  border-radius:0.5%;
+  border-radius:1px;
 }
 
 form h2 {
